@@ -7,8 +7,8 @@
 
 Feel free to browse the supported fonts organized by sources:
 
-- [Adobe Typekit](/fonts-charset-slovak/google-fonts/)
-- [Google Fonts](/fonts-charset-slovak/typekit-fonts/)
+- [Adobe Typekit](/fonts-charset-slovak/typekit-fonts/)
+- [Google Fonts](/fonts-charset-slovak/google-fonts/)
 
 
 ## Tests
