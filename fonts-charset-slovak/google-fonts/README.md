@@ -4,4 +4,4 @@ Here you can find list of [Google Fonts](https://www.google.com/fonts) which sup
 
 Each font group is separated into a dedicated file.
 
-*Feel free to browse. Any [contributions appreciated](../CONTRIBUTING.md) ;)*
+*Feel free to browse. Any [contributions appreciated](/fonts-charset-slovak/CONTRIBUTING.md) ;)*
